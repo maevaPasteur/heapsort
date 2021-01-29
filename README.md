@@ -1,5 +1,5 @@
-#Devoir sur l'algorythme | Heap Sort
-#####Par Maëva Pasteur
+# Devoir sur l'algorythme | Heap Sort
+##### Par Maëva Pasteur
 Master 2 Dev - Ecv Digital Paris<br>
 maeva.pasteur.pro@gmail.com
 <br><br><br>
@@ -56,7 +56,7 @@ console.log(heapsort(numbers));
 ```
 <br><br><br>
 
-###Python
+### Python
 ```python
 def swap(array, first, second):
     initialValue = array[first]
